@@ -7,9 +7,9 @@ The player must time a big jump or a small jump to get through the gap between b
 Hitting any wall is an immediate game over.
 
 ## The AI (Neural Network)
-The Neural Network has to figure out how to survive this game on its own. It does this using an evolutionary genetic algorithm.
+The AI has to figure out how to survive this game on its own. It does this using an evolutionary genetic algorithm.
 
-The Neural Network is given 3 inputs:
+Its Neural Network is given 3 inputs:
 1. It's current height
 2. The height of the wall in front of it
 3. The distance to the wall
